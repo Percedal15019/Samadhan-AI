@@ -1,0 +1,11 @@
+complaint,channel,location,date
+"ATM didn't dispense cash but money deducted",ATM,Mumbai,2026-03-18
+"UPI payment failed but amount debited",Mobile,Pune,2026-03-18
+"Card blocked without any reason",Branch,Delhi,2026-03-19
+"Fraud transaction detected on my account",Mobile,Bangalore,2026-03-19
+"Loan application taking too long",Branch,Chennai,2026-03-20
+"Net banking not working properly",Web,Hyderabad,2026-03-20
+"ATM machine out of service",ATM,Mumbai,2026-03-21
+"Money transferred but not received",Mobile,Delhi,2026-03-21
+"Unable to reset my password",Web,Pune,2026-03-21
+"Unauthorized transaction happened",Mobile,Mumbai,2026-03-21

@@ -1,0 +1,151 @@
+complaint,channel,location,date,categories
+Money transferred but not received,Branch,Hyderabad,2026-03-07
+Fraud transaction detected on my account,Web,Delhi,2026-03-17
+ATM machine out of service,Branch,Hyderabad,2026-03-01,ATM Issue
+Fraud transaction detected on my account,Call Center,Bangalore,2026-03-01
+ATM machine out of service,Mobile,Pune,2026-03-08
+Loan application taking too long,Web,Delhi,2026-03-04
+UPI server down frequently,Branch,Delhi,2026-03-02
+Mobile app crashing during transaction,Branch,Mumbai,2026-03-19
+Unable to reset my password,Mobile,Chennai,2026-03-13
+Unable to reset my password,Mobile,Kolkata,2026-03-16
+UPI payment failed but amount debited,Mobile,Chennai,2026-03-15
+ATM machine out of service,Mobile,Delhi,2026-03-12
+Card blocked without any reason,Web,Mumbai,2026-03-16
+Net banking not working properly,Web,Bangalore,2026-03-10
+Interest rate not updated correctly,Mobile,Pune,2026-03-16
+Interest rate not updated correctly,Branch,Bangalore,2026-03-13
+Card blocked without any reason,Mobile,Mumbai,2026-03-15
+UPI payment failed but amount debited,Branch,Hyderabad,2026-03-15
+Credit card charged twice,Web,Hyderabad,2026-03-13
+Mobile app crashing during transaction,ATM,Chennai,2026-03-18
+Loan application taking too long,Call Center,Delhi,2026-03-10
+ATM didn't dispense cash but money deducted,ATM,Bangalore,2026-03-01
+Debit card not working at POS,Branch,Pune,2026-03-21
+ATM didn't dispense cash but money deducted,Branch,Chennai,2026-03-09
+UPI server down frequently,Mobile,Bangalore,2026-03-15
+UPI server down frequently,Call Center,Bangalore,2026-03-10
+Net banking not working properly,ATM,Bangalore,2026-03-01
+ATM didn't dispense cash but money deducted,Mobile,Hyderabad,2026-03-21
+ATM didn't dispense cash but money deducted,Branch,Bangalore,2026-03-21
+Debit card not working at POS,Branch,Hyderabad,2026-03-17
+Net banking not working properly,Mobile,Chennai,2026-03-17
+UPI server down frequently,Call Center,Pune,2026-03-15
+Card blocked without any reason,Web,Chennai,2026-03-12
+Interest rate not updated correctly,Mobile,Chennai,2026-03-21
+Interest rate not updated correctly,ATM,Pune,2026-03-17
+Mobile app crashing during transaction,Mobile,Mumbai,2026-03-08
+ATM machine out of service,Web,Hyderabad,2026-03-11
+ATM machine out of service,Mobile,Bangalore,2026-03-04
+Fraud transaction detected on my account,Mobile,Kolkata,2026-03-17
+Net banking not working properly,ATM,Hyderabad,2026-03-14
+Unauthorized transaction happened,Web,Chennai,2026-03-14
+ATM machine out of service,Branch,Delhi,2026-03-20
+Loan application taking too long,Branch,Kolkata,2026-03-08
+Unauthorized transaction happened,ATM,Chennai,2026-03-14
+Money transferred but not received,Branch,Pune,2026-03-02
+Unable to reset my password,Web,Delhi,2026-03-14
+Unable to reset my password,Call Center,Mumbai,2026-03-15
+Fraud transaction detected on my account,Branch,Hyderabad,2026-03-19
+Money transferred but not received,Branch,Kolkata,2026-03-15
+Net banking not working properly,Web,Hyderabad,2026-03-21
+UPI payment failed but amount debited,Branch,Chennai,2026-03-08
+Unauthorized transaction happened,Branch,Pune,2026-03-02
+Unable to reset my password,ATM,Mumbai,2026-03-17
+Loan application taking too long,Web,Bangalore,2026-03-18
+ATM didn't dispense cash but money deducted,Call Center,Mumbai,2026-03-12
+Credit card charged twice,Branch,Hyderabad,2026-03-16
+Mobile app crashing during transaction,Call Center,Pune,2026-03-03
+Fraud transaction detected on my account,ATM,Hyderabad,2026-03-03
+Fraud transaction detected on my account,Mobile,Hyderabad,2026-03-18
+Money transferred but not received,Branch,Delhi,2026-03-11
+Loan application taking too long,Call Center,Hyderabad,2026-03-13
+Fraud transaction detected on my account,Branch,Chennai,2026-03-15
+Loan application taking too long,ATM,Bangalore,2026-03-14
+ATM machine out of service,Call Center,Hyderabad,2026-03-19
+Money transferred but not received,ATM,Pune,2026-03-13
+Credit card charged twice,Mobile,Chennai,2026-03-20
+Interest rate not updated correctly,Mobile,Bangalore,2026-03-21
+Interest rate not updated correctly,Branch,Delhi,2026-03-17
+Debit card not working at POS,Branch,Delhi,2026-03-16
+Credit card charged twice,ATM,Hyderabad,2026-03-08
+ATM didn't dispense cash but money deducted,Web,Chennai,2026-03-08
+Debit card not working at POS,Call Center,Kolkata,2026-03-16
+Debit card not working at POS,Call Center,Chennai,2026-03-21
+UPI payment failed but amount debited,Branch,Delhi,2026-03-08
+UPI server down frequently,Call Center,Chennai,2026-03-06
+Mobile app crashing during transaction,Call Center,Bangalore,2026-03-20
+ATM machine out of service,Mobile,Delhi,2026-03-15
+Interest rate not updated correctly,Web,Kolkata,2026-03-01
+UPI server down frequently,ATM,Delhi,2026-03-21
+Loan application taking too long,Web,Hyderabad,2026-03-21
+ATM machine out of service,Web,Kolkata,2026-03-08
+ATM machine out of service,ATM,Hyderabad,2026-03-02
+Fraud transaction detected on my account,Web,Kolkata,2026-03-06
+ATM didn't dispense cash but money deducted,ATM,Mumbai,2026-03-12
+Card blocked without any reason,Call Center,Delhi,2026-03-08
+UPI server down frequently,Call Center,Bangalore,2026-03-19
+Unauthorized transaction happened,Call Center,Bangalore,2026-03-17
+Unable to reset my password,Branch,Delhi,2026-03-21
+ATM machine out of service,Web,Pune,2026-03-03
+Mobile app crashing during transaction,Mobile,Kolkata,2026-03-16
+Debit card not working at POS,Web,Chennai,2026-03-20
+Mobile app crashing during transaction,Call Center,Chennai,2026-03-18
+Debit card not working at POS,ATM,Hyderabad,2026-03-05
+ATM didn't dispense cash but money deducted,ATM,Bangalore,2026-03-13
+Interest rate not updated correctly,Mobile,Bangalore,2026-03-01
+Net banking not working properly,Branch,Chennai,2026-03-16
+Fraud transaction detected on my account,Mobile,Kolkata,2026-03-12
+Card blocked without any reason,ATM,Hyderabad,2026-03-10
+Money transferred but not received,Branch,Kolkata,2026-03-09
+Unauthorized transaction happened,Mobile,Mumbai,2026-03-09
+ATM machine out of service,Web,Hyderabad,2026-03-03
+Card blocked without any reason,ATM,Hyderabad,2026-03-07
+Card blocked without any reason,ATM,Bangalore,2026-03-03
+UPI server down frequently,Mobile,Chennai,2026-03-20
+Fraud transaction detected on my account,ATM,Delhi,2026-03-03
+UPI server down frequently,Call Center,Chennai,2026-03-15
+Money transferred but not received,Web,Hyderabad,2026-03-03
+Credit card charged twice,ATM,Delhi,2026-03-09
+Net banking not working properly,Branch,Pune,2026-03-05
+Debit card not working at POS,Call Center,Mumbai,2026-03-12
+ATM didn't dispense cash but money deducted,Mobile,Chennai,2026-03-09
+Mobile app crashing during transaction,Branch,Pune,2026-03-20
+ATM didn't dispense cash but money deducted,Web,Delhi,2026-03-01
+Card blocked without any reason,Branch,Hyderabad,2026-03-21
+UPI payment failed but amount debited,ATM,Mumbai,2026-03-16
+Card blocked without any reason,ATM,Bangalore,2026-03-03
+Card blocked without any reason,Branch,Kolkata,2026-03-15
+Unable to reset my password,Branch,Chennai,2026-03-06
+Interest rate not updated correctly,Web,Delhi,2026-03-13
+Mobile app crashing during transaction,Call Center,Chennai,2026-03-10
+UPI payment failed but amount debited,Call Center,Delhi,2026-03-05
+Money transferred but not received,Call Center,Hyderabad,2026-03-21
+Credit card charged twice,Web,Chennai,2026-03-06
+Credit card charged twice,Branch,Chennai,2026-03-14
+Interest rate not updated correctly,Mobile,Kolkata,2026-03-20
+Card blocked without any reason,Call Center,Pune,2026-03-05
+Net banking not working properly,Web,Pune,2026-03-17
+Credit card charged twice,Call Center,Kolkata,2026-03-11
+Net banking not working properly,Web,Delhi,2026-03-09
+UPI payment failed but amount debited,Call Center,Pune,2026-03-20
+Mobile app crashing during transaction,ATM,Mumbai,2026-03-01
+ATM machine out of service,Call Center,Bangalore,2026-03-08
+Net banking not working properly,Web,Mumbai,2026-03-13
+UPI server down frequently,Call Center,Chennai,2026-03-01
+Mobile app crashing during transaction,Branch,Chennai,2026-03-18
+UPI server down frequently,ATM,Bangalore,2026-03-17
+UPI server down frequently,ATM,Hyderabad,2026-03-20
+Credit card charged twice,Web,Mumbai,2026-03-01
+Fraud transaction detected on my account,Branch,Delhi,2026-03-15
+UPI server down frequently,Mobile,Hyderabad,2026-03-08
+Card blocked without any reason,Branch,Delhi,2026-03-05
+UPI payment failed but amount debited,ATM,Bangalore,2026-03-10
+UPI server down frequently,Web,Chennai,2026-03-05
+Loan application taking too long,Call Center,Kolkata,2026-03-14
+Debit card not working at POS,ATM,Delhi,2026-03-20
+Debit card not working at POS,Mobile,Delhi,2026-03-02
+Money transferred but not received,ATM,Bangalore,2026-03-05
+Net banking not working properly,ATM,Delhi,2026-03-08
+Net banking not working properly,Branch,Hyderabad,2026-03-15
+Unauthorized transaction happened,ATM,Mumbai,2026-03-06
